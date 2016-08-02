@@ -1,16 +1,20 @@
-typography_spectrum: 0.01663860655389726
+typography_spectrum: 0.08899885253049433
 color:
-  brandStrength: 0.8689605775289237
-  lightness: 0.3231235456187278
-  saturation: 0.09478023601695895
-  rhythmicContrast: 0.8341727331280708
+  brandStrength: 0.7217171892989427
+  lightness: 0.45948375831358135
+  saturation: 0.4905447708442807
+  rhythmicContrast: 0.5545132621191442
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
-layout_spectrum: 0.03396090632304549
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.8919625577982515
 name: T2 VISUALS
+navigation:
+  - name: DEMO REEL
+    id: d1b5c35f-7539-474a-be49-22c6bf2a593d
+    type: content
 title: T2 VISUALS
 description: MOTION MEDIA DESIGN
