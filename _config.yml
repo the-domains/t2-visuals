@@ -16,5 +16,8 @@ navigation:
   - name: DEMO REEL
     id: d1b5c35f-7539-474a-be49-22c6bf2a593d
     type: content
+  - name: CONTACT
+    id: a52442f6-e001-45cc-bc34-56f99dbff7f7
+    type: content
 title: T2 VISUALS
 description: MOTION MEDIA DESIGN
