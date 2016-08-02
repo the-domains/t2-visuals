@@ -1,16 +1,16 @@
-typography_spectrum: 0.5653022278565913
+typography_spectrum: 0.08899885253049433
 color:
-  brandStrength: 0.3378281672485173
-  lightness: 0.9479171840939671
-  saturation: 0.8470174341928214
-  rhythmicContrast: 0.9480928385164589
+  brandStrength: 0.7217171892989427
+  lightness: 0.45948375831358135
+  saturation: 0.4905447708442807
+  rhythmicContrast: 0.5545132621191442
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
-layout_spectrum: 0.8244735584594309
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.8919625577982515
 name: T2 VISUALS
 navigation:
   - name: DEMO REEL
