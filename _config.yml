@@ -1,16 +1,16 @@
-typography_spectrum: 0.08899885253049433
+typography_spectrum: 0.2133093811571598
 color:
-  brandStrength: 0.7217171892989427
-  lightness: 0.45948375831358135
-  saturation: 0.4905447708442807
-  rhythmicContrast: 0.5545132621191442
+  brandStrength: 0.04334840690717101
+  lightness: 0.38803330552764237
+  saturation: 0.21095480723306537
+  rhythmicContrast: 0.5849923086352646
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.8919625577982515
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
+layout_spectrum: 0.716927136760205
 name: T2 VISUALS
 title: T2 VISUALS
 description: MOTION MEDIA DESIGN
